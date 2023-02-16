@@ -1,1 +1,1 @@
-p
+#image untuk share ayat
